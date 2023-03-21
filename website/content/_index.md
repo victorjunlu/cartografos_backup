@@ -15,7 +15,7 @@ The intent of this model is to help you move from inception through to full adop
 
 这个模型的目的是帮助您通过使用CNCF的技术栈，从概念阶段到完全采用云原生技术，以在公有云和混合云中运行可扩展的应用程序，从而实现现代动态环境下的全部优势。
 
-## Target audience
+## Target audience 目标听众
 
 The main target for this model is broad and encompasses the following groups:
 
@@ -24,6 +24,14 @@ The main target for this model is broad and encompasses the following groups:
 * Open source and CNCF projects and practitioners wishing to use or contribute to the model
 * Leadership teams looking to understand the benefits of cloud native, scope of effort, and level of investment
 * Technologists wishing to get started with moving towards cloud native technologies who are keen to understand in more detail the journey ahead of them, as well as have further areas for investigation highlighted
+
+这个模型的主要目标是广泛的，包括以下人群：
+
+* 正在启动或踏上数字化转型之路的企业
+* 希望在庞大的CNCF景观中寻找可实施并值得信赖的框架模型的人群
+* 希望使用或为该模型做出贡献的开源和CNCF项目和从业者
+* 领导团队，希望了解云原生的好处、工作范围和投资水平
+* 希望开始转向云原生技术并渴望更详细地了解前方的旅程，以及有进一步研究重点的技术人员
 
 ## How the model is divided up
 
