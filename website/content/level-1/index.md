@@ -38,17 +38,25 @@ Developers may have learned about Agile Manifesto and adopted Scrum Framework wi
 
 开发人员可能已经了解敏捷宣言并采用了Scrum框架，但并未必然包括运维。开发人员可能会尝试自行解决外部依赖关系，从而减缓反馈速度，并导致每个迭代中的功能不完整。
 
-### Upskilling Developers
+### Upskilling Developers 提升开发人员的技能
 
 The maturity of your people will include upskilling the development team. 
 
 Your application team will be trained in 12 factor applications, microservice and cloud native patterns. You will also require developers who are quite comfortable with cloud native concepts and tooling such as kubectl in order to bootstrap your development team.
 
-### CNCF Certifications
+您的员工成熟度将包括提升开发团队的技能。
+
+您的应用团队将接受12个因素应用程序、微服务和云原生模式的培训。您还需要拥有对云原生概念和工具（如kubectl）非常熟悉的开发人员来启动您的开发团队。
+
+### CNCF Certifications CNCF 认证
 
 Cloud Native Computing Foundation (CNCF) serves as the vendor-neutral home for many of the fastest-growing open source projects, including Kubernetes, Prometheus, and Envoy.
 
 In order for you to build a sustainable ecosystems for cloud native infrastructure is it important to have your team invest in the CNCF Certifications. It is unlikely you’ll achieve certifications in level 1. 
+
+云原生计算基金会（CNCF）是许多增长最快的开源项目（包括Kubernetes、Prometheus和Envoy）的供应商中立的中心。
+
+为了构建云原生基础设施的可持续生态系统，您的团队投资于CNCF认证至关重要。您很可能不会在Level 1中获得认证。
 
 ## <i class="fas fa-cogs"></i> Process
 
