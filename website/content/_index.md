@@ -51,11 +51,15 @@ Developing a cloud native maturity is not just a technology journey, but one whi
 4. 技术 - 您需要哪些技术才能提供云原生的好处，并支持人员、流程和策略以及 CI/CD 技术、GitOps 采用、可观测性、安全性、存储、网络等。
 5. 业务成果 - 企业可以从云原生中期望实现什么？您将如何向 CXO 和/或业务领导层传达这些好处？
 
-## But what if we don’t fit this model…
+## But what if we don’t fit this model…  但是，如果我们不符合这个模型呢？
 
 Relax! No project, organization or person is expected to match all of the details contained within the model, perfectly. It’s deliberately designed to cover many different scenarios; everything from startups to Fortune 100 companies. Take what is most relevant to you and your situation, and if this helps inspire you in (or indeed account for, but then rule out) any items or areas, then we consider this to be a success for you!
 
 *The aim of this model is not to be overly prescriptive, but rather to be a tool to help guide you on your journey. Cloud native transformation is not an exact science, but rather lives within your project, your organization, and of course takes place in a specific time and place.*
+
+放心！没有任何项目、组织或个人能够完美地符合模型中包含的所有细节。该模型的设计是有意涵盖许多不同的情况；从初创公司到财富100强企业等一切。选择与您和您的情况最相关的内容，如果这有助于激励您（或者确实解决了一些问题，但是将某些项目或领域排除），那么我们认为这对您来说是一种成功！
+
+* 该模型的目的不是过于规定性，而是为了成为一个指导您旅程的工具。云原生转型并不是一门精确的科学，而是存在于您的项目、您的组织中，并在特定的时间和地点发生。
 
 ## Prerequisites for the Cloud Native Maturity Model
 
