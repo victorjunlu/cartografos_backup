@@ -111,12 +111,15 @@ You may be ready to start your cloud native journey if you meet the following cr
 
 *您可能支持同一软件的多个发行版，并且在不引起重大停机时间的情况下升级或评估可能存在问题。
 
-### Policy
+### Policy 政策
 
 * Policy may be in the form of conventions and rules that are located external to the application and its platform, and are not enforced natively within your applications and runtime environment.
 * Policies might be disparate and built in silos; defense in depth parity might be more of an accident than deliberate.
 
-### Technology
+*政策可能以公约和规则的形式存在于应用程序和平台之外，并且不会在应用程序和运行时环境内部本地执行。
+*政策可能是分散的，并在孤立的组织中制定；深度防御的一致性可能更多地是偶然而非有意为之。
+
+### Technology 
 
 * You’ll likely have VM’s on demand.
 * Some automation scattered around.
