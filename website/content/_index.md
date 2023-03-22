@@ -173,23 +173,35 @@ There are five stages within the cloud native maturity model. While you may be i
 
 * **[Level 1 - Build](/level-1/)**  
 You have a baseline cloud native implementation in place and are in pre-production.
+您已经拥有了一个基础的云原生实现并处于预生产阶段。
 
 * **[Level 2 - Operate](/level-2/)**  
 The cloud native foundation is established and you are moving to production.
+云原生基础设施已经建立，你正在向生产环境转移。
 
 * **[Level 3 - Scale](/level-3/)**  
 Your competency is growing and you are defining processes for scale.
+你的能力正在增长，并且你正在定义用于扩展的流程。
 
 * **[Level 4 - Improve](/level-4/)**  
 You are improving security, policy and governance across your environment.
+您正在改善整个环境中的安全、策略和治理。
 
 * **[Level 5 - Optimize](/level-5/)**  
 You are revisiting decisions made earlier and monitoring applications and infrastructure for optimization.
+你正在重新审视之前做出的决策，并监视应用程序和基础架构以进行优化。
+
+****
 
 In each of the following sections, we will highlight core concepts and discuss what this means in each stage of your maturity across people, process, policy and technology.
 
 We welcome feedback from the community on the Cloud Native Maturity Model!
 
-## Position on Included Technologies
+在以下各节中，我们将重点介绍核心概念，并讨论这在您的不同成熟度阶段在人员、流程、政策和技术方面意味着什么。
+
+我们欢迎社区对云原生成熟度模型提供反馈！
+
+## Position on Included Technologies 涉及的技术范围
 The Cloud Native Maturity model includes references to only CNCF graduated or incubating projects. The Maturity Model’s default position on CNCF sandbox projects will be to exclude unless referenced in later stages of maturity (i.e. users that have achieved level 4 or 5). It does not and will not include any reference to commercial software. 
+云原生成熟度模型仅包含CNCF的毕业或孵化项目。成熟度模型对 CNCF 沙盒项目的默认立场是排除，除非在后期的成熟度阶段中提到（即达到 4 或 5 级的用户）。它不包括任何商业软件的参考。
 
