@@ -2,6 +2,7 @@
 title: "Level 1 - Build 级别1 - 建立 "
 description: >
    You have a baseline cloud native implementation in place and are in pre-production.
+   您已经完成了一个基础的云原生实现，并处于预生产阶段。
 ---
 
 ## <i class="fas fa-users"></i> People 
