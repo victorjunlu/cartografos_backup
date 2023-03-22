@@ -153,11 +153,17 @@ You may be ready to start your cloud native journey if you meet the following cr
 
 ![man at a conference](/images/man-at-conference.jpg)
 
-### Business Outcomes
+### Business Outcomes  业务成果
 
 * Your business is growing and needs the ability to scale to meet demand.
 * Your business needs to improve and/or deliver an exceptional customer experience.
 * Your business needs to get features to market faster.
+
+您的业务正在增长，并需要具备扩展能力以满足需求。
+
+您的业务需要改进和/或提供卓越的客户体验。
+
+您的业务需要更快地将功能推向市场。
 
 ## The Cloud Native Maturity Model Journey
 
