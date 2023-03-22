@@ -165,9 +165,11 @@ You may be ready to start your cloud native journey if you meet the following cr
 
 您的业务需要更快地将功能推向市场。
 
-## The Cloud Native Maturity Model Journey
+## The Cloud Native Maturity Model Journey 云原生成熟度模型之旅
 
 There are five stages within the cloud native maturity model. While you may be in stage five for one application, at the same time, you may be at stage 2 for another. Keep that in mind as you identify your stage of maturity.
+
+云原生成熟度模型包含五个阶段。尽管你可能对某个应用程序处于第五阶段，但同时你可能对另一个应用程序处于第二阶段。在确定你的成熟度阶段时，请记住这一点。
 
 * **[Level 1 - Build](/level-1/)**  
 You have a baseline cloud native implementation in place and are in pre-production.
