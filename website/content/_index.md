@@ -203,5 +203,6 @@ We welcome feedback from the community on the Cloud Native Maturity Model!
 
 ## Position on Included Technologies 涉及的技术范围
 The Cloud Native Maturity model includes references to only CNCF graduated or incubating projects. The Maturity Model’s default position on CNCF sandbox projects will be to exclude unless referenced in later stages of maturity (i.e. users that have achieved level 4 or 5). It does not and will not include any reference to commercial software. 
+
 云原生成熟度模型仅包含CNCF的毕业或孵化项目。成熟度模型对 CNCF 沙盒项目的默认立场是排除，除非在后期的成熟度阶段中提到（即达到 4 或 5 级的用户）。它不包括任何商业软件的参考。
 
