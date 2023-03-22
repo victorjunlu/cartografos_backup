@@ -117,9 +117,10 @@ You may be ready to start your cloud native journey if you meet the following cr
 * Policies might be disparate and built in silos; defense in depth parity might be more of an accident than deliberate.
 
 *政策可能以公约和规则的形式存在于应用程序和平台之外，并且不会在应用程序和运行时环境内部本地执行。
+
 *政策可能是分散的，并在孤立的组织中制定；深度防御的一致性可能更多地是偶然而非有意为之。
 
-### Technology 
+### Technology 技术
 
 * You’ll likely have VM’s on demand.
 * Some automation scattered around.
@@ -130,6 +131,17 @@ You may be ready to start your cloud native journey if you meet the following cr
 * Your applications may rely on infrastructure solutions for high availability, which in turn may be more costly than you’d like
 * Your server estate could range from single physical or virtual servers with low levels of availability, through to highly available clusters. Scaling could be a real challenge and may require considerable investment in money, time and planning.
 * You may have started to dip your toe into a 'Everything as Code' model. i.e. started to script your infrastructure with Terraform.
+
+*您可能会随时获得VM。
+*有一些分散的自动化。
+*您将拥有基线安全组件，例如SIEM、RBAC概念和某种类型的目录。
+*您会有一些软件包装，但这可能不一致。
+*您会有周边安全性，也许在1-4层有一些网络分区，但您可能会感到一些焦虑和安全实践。
+*您的加密经验可能有所不同 - 您可能有一些证书颁发机构，但它们可能不会被广泛使用，并且对许多人来说具有很高的准入门槛。
+*您的应用程序可能依赖于基础架构解决方案来实现高可用性，这反过来可能比您想要的更昂贵
+*您的服务器集群可能从单个物理或虚拟服务器开始，可用性水平较低，到高可用性集群。扩展可能是一个真正的挑战，可能需要大量的投资时间和计划。
+*您可能已经开始涉足“一切都是代码”的模式。也就是说，开始使用Terraform编写基础架构脚本。
+
 
 ![man at a conference](/images/man-at-conference.jpg)
 
