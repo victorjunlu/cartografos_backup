@@ -96,8 +96,11 @@ You may be ready to start your cloud native journey if you meet the following cr
 * This split may have worked well for you, and indeed may be mandated. But you may be finding additional challenges as much of your platforms become code and application oriented. You may find you require skills in your platform area that have traditionally belonged within your application area.
 
 *您在开发和运维之间有明显的分离，基础设施、云、应用程序运维和开发之间有明确的人员划分。
+
 *您通常将运维和基础设施部门与应用程序开发部门分开。这可能是由监管要求强制执行的。
+
 *这种分割可能对您很有效，甚至可能是强制性的。但是，随着您的平台变得越来越以代码和应用为导向，您可能会面临额外的挑战。您可能会发现您需要在平台领域具备传统上属于应用领域的技能。
+
 
 ### Process 
 
