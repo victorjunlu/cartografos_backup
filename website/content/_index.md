@@ -83,17 +83,23 @@ The most important thing you should have is a clear idea of the business outcome
 
 您应该拥有的最重要的东西是对您期望实现的业务成果的清晰理解。这些将是您的“北极星”，帮助指导您的决策过程。
 
-## When is the right time
+## When is the right time  什么时候是合适的时机
 
 You may be ready to start your cloud native journey if you meet the following criteria:
 
-### People
+如果您符合以下标准，则可能已经准备好开始云原生之旅：
+
+### People 人员
 
 * You have significant separation between development and operations, with a clear staff delineation between infrastructure, cloud, application operations and development.
 * You have traditionally split your operations and infrastructure divisions and your application development departments. This may have been enforced by regulatory requirements.
 * This split may have worked well for you, and indeed may be mandated. But you may be finding additional challenges as much of your platforms become code and application oriented. You may find you require skills in your platform area that have traditionally belonged within your application area.
 
-### Process
+*您在开发和运维之间有明显的分离，基础设施、云、应用程序运维和开发之间有明确的人员划分。
+*您通常将运维和基础设施部门与应用程序开发部门分开。这可能是由监管要求强制执行的。
+*这种分割可能对您很有效，甚至可能是强制性的。但是，随着您的平台变得越来越以代码和应用为导向，您可能会面临额外的挑战。您可能会发现您需要在平台领域具备传统上属于应用领域的技能。
+
+### Process 
 
 * Your application deployments may be done manually in many cases, or your release processes may take a very long time to complete, often with multiple attempts.
 * You may support multiple distributions of the same software and have trouble upgrading or evaluating without significant down-time.
