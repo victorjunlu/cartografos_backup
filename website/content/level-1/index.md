@@ -58,17 +58,24 @@ In order for you to build a sustainable ecosystems for cloud native infrastructu
 
 为了构建云原生基础设施的可持续生态系统，您的团队投资于CNCF认证至关重要。您很可能不会在Level 1中获得认证。
 
-## <i class="fas fa-cogs"></i> Process
+## <i class="fas fa-cogs"></i> Process 流程
 
-### Process Overview
+### Process Overview 流程概述
 
 You will map application requirements, both functional (application features and code) and non-functional, such as performance, capacity, and availability, and define how your organization will scale. Feedback will be manual such as by Slack, email, and phone, and you’ll also remediate manually also. You will start to implement repeatability by defining your Git workflow. Platform and technology lifecycle and updates, particularly security updates, need to be applied on a regular basis as vulnerable systems pose specific risks. You will likely be applying these updates by hand on an adhoc basis, or using update systems included in distributions.
 
-### CI/CD
+您将会映射应用程序要求，包括功能性（应用程序特征和代码）和非功能性要求，如性能、容量和可用性，并定义组织如何扩展。反馈将是手动的，例如通过Slack、电子邮件和电话，您还将手动进行纠正。您将开始通过定义Git工作流程来实现可重复性。需要定期应用平台和技术生命周期和更新，特别是安全更新，因为易受攻击的系统会带来特定的风险。您很可能会按需手动应用这些更新，或使用发行版中包含的更新系统。
+
+
+### CI/CD  CI/CD（持续集成/持续交付）
 
 Central to your cloud native transformation is the adoption of CI/CD. CI/CD helps you build, test and deploy applications based on modern software development practices. Your CI/CD process will mature over time.
 
 If you do CI/CD, you need to transform this into your cloud native environment. That includes taking existing best practices and building upon them.
+
+在您的云原生转型过程中，CI/CD的采用至关重要。CI/CD可以帮助您基于现代软件开发实践构建、测试和部署应用程序。随着时间的推移，您的CI/CD流程将会不断成熟。
+
+如果您正在使用CI/CD，您需要将其转换为您的云原生环境。这包括采用现有的最佳实践并在其基础上建立。
 
 ### Change Control
 
