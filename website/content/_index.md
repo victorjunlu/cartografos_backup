@@ -108,6 +108,7 @@ You may be ready to start your cloud native journey if you meet the following cr
 * You may support multiple distributions of the same software and have trouble upgrading or evaluating without significant down-time.
 
 *您的应用程序部署可能在许多情况下都是手动完成的，或者您的发布流程可能需要很长时间才能完成，通常需要多次尝试。
+
 *您可能支持同一软件的多个发行版，并且在不引起重大停机时间的情况下升级或评估可能存在问题。
 
 ### Policy
