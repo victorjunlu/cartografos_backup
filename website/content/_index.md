@@ -33,7 +33,7 @@ The main target for this model is broad and encompasses the following groups:
 * 领导团队，希望了解云原生的好处、工作范围和投资水平
 * 希望开始转向云原生技术并渴望更详细地了解前方的旅程，以及有进一步研究重点的技术人员
 
-## How the model is divided up
+## How the model is divided up 这个模型是如何划分的
 
 Developing a cloud native maturity is not just a technology journey, but one which is influenced by four major areas:
 
@@ -42,6 +42,14 @@ Developing a cloud native maturity is not just a technology journey, but one whi
 3. Policy - What internal and external policies are required to achieve security and compliance mandates? Do these policies reflect your business’s operating environment?
 4. Technology - What technology is required for you to deliver on the benefits of cloud native and support people, processes and policy as well as the technology for CI/CD, adoption of GitOps, observability, security, storage, networking, etc.
 5. Business outcomes - What can the business expect to achieve from cloud native? How are you going to communicate the benefits to the CXO and/or business leadership?
+
+发展云原生成熟度不仅仅是一项技术之旅，还受到四个主要领域的影响：
+
+1. 人员 - 我们如何工作，需要什么技能，随着我们在这个过程中前进，我们的组织会是什么样子，如何将安全编入人们的工作中？
+2. 过程 - 我们需要哪些流程，需要什么技术，并如何使用基础架构即代码 (IaC) 来映射工作流程和 CI/CD，并如何尽可能向“最左侧”移动安全性。
+3. 策略 - 为实现安全性和合规性，需要什么内部和外部政策？这些政策是否反映了您企业的运营环境？
+4. 技术 - 您需要哪些技术才能提供云原生的好处，并支持人员、流程和策略以及 CI/CD 技术、GitOps 采用、可观测性、安全性、存储、网络等。
+5. 业务成果 - 企业可以从云原生中期望实现什么？您将如何向 CXO 和/或业务领导层传达这些好处？
 
 ## But what if we don’t fit this model…
 
