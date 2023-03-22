@@ -119,37 +119,57 @@ You will have a limited set of documented policies in place to support services 
 
 您将制定有限的文件化策略以支持您在云中构建的服务。
 
-### Policy Creation
+### Policy Creation 策略创建
 
 You will need to translate your organization’s policies and compliance requirements to your cloud native environment.
 
 Spend time understanding your application's functional and architectural requirements.
 
-### Compliance
+你需要将你的组织策略和合规要求转化为云原生环境中的规则。
+
+花时间了解你的应用程序的功能和架构要求。
+
+### Compliance 合规性
 
 You will need policies in place to achieve compliance especially in highly regulated industries. For compliance, there is a gradient of what you will achieve.
 
 Spend time understanding your compliance requirements: CIS, NIST, PCI for example. Design SLOs and priorities for compliance. This will take time and may not be a pre-production requirement, but will increase as you move to production.
 
-## <i class="fas fa-server"></i> Technology
+您需要制定策略以实现合规性，特别是在高度监管的行业。对于合规性，您将实现的内容是渐进的。
 
-### Technology Overview
+花时间了解您的合规性要求：如CIS，NIST，PCI等。为合规性设计SLO和优先级。这需要时间，可能不是预生产的要求，但随着您进入生产，其重要性会增加。
+
+、
+## <i class="fas fa-server"></i> Technology 技术
+
+### Technology Overview 技术概述
 
 You’ll have your initial experimentation and adoption of Kubernetes. You’ll start with relatively basic tools and technology. You’ll assess your existing toolset to see how they fit within the new landscape (what plays well with cloud native, and what doesn’t?). You’ll have limited automation, but don’t worry, it’s coming! Your focus is on getting the baseline technology implemented, and you won’t be in production yet.
 
-### Infrastructure
+您将进行 Kubernetes 的初始实验和采用。您将开始使用相对基础的工具和技术。您将评估现有的工具集，看看它们在新的环境中适用程度（哪些工具能够很好地与云原生相容，哪些不能？）。您将有限的自动化，但不用担心，它即将到来！您的重点是实现基础技术，但还没有进入生产环境。
+
+
+### Infrastructure 基础设施
 
 You are building your cloud infrastructure either on-prem or off. It will pay dividends to consider early your supporting technology such as your network, firewalls and IAM, access controls and policies (and if you need to change them). Many topics will come out of your initial experimentation with Kubernetes, so ensure you keep track of these - they are the ‘breadcrumbs’ you will follow as you move towards cloud native. This will include RBAC policies, load balancer and/or ingress configuration, cluster dashboards, privileged access (or lack thereof!) and container logging. Your aim is to move away from ‘pets’ to ‘livestock’ so you invest in declarative solutions for your Infrastructure as a Service with Infrastructure as Code (IaC) tooling. If you do not have a consolidated DevOps practice at this level, bring your future operations team in to build familiarity.
 
-### Container and Runtime Management
+您正在构建云基础架构，无论是在本地还是在云上。尽早考虑支持技术，如网络、防火墙、身份和访问控制以及策略（以及您是否需要更改它们），将对您产生回报。在与 Kubernetes 的初始实验中，将涉及许多主题，因此请确保跟踪这些主题，它们是您朝着云原生发展的“面包屑”。这将包括 RBAC 策略、负载均衡器和/或入口配置、集群仪表板、特权访问（或缺乏访问）和容器日志记录。您的目标是从“宠物”迁移到“家畜”，因此要使用基础设施即服务的声明性解决方案，并使用基础设施即代码（IaC）工具。如果在这个层面上您没有一个统一的 DevOps 实践，请让未来的运营团队参与构建以建立熟悉性。
+
+### Container and Runtime Management 容器和运行时管理
 
 Initially you’ll want to focus on just building containers. One of your first steps will be to add container builds to your CI for your application. You’ll also want to adopt a container registry for your images and you’ll need to consider versioning and tagging so that you can ensure you know exactly what code is in use.
 
-### Application Patterns and Refactoring
+初始阶段，你需要专注于构建容器。你的第一步将是将容器构建添加到应用程序的CI中。你还需要采用容器注册表来存储你的镜像，并需要考虑版本控制和标记，以确保你知道正在使用的代码的准确信息。
+
+### Application Patterns and Refactoring  应用程序模式和重构
 
 Start with a canonical microservice application if you can and confirm that it runs and that people are familiar with it. Attempt to start with a microservice application on your cloud native journey if you can. You can try an existing or monolithic application if this makes sense, as this will flush out tooling and dependencies you'll have for your journey to cloud native, such as kubectl, network connectivity and other topics.
 
 Your business needs to review microservice patterns and architecture and look to understand the specifics for your applications. Non-functional requirements such as latency, resilience, scaling and third party tooling should definitely be considered. If you're transforming a monolith, this may impose significant redesign on the application as existing needs may not have the technical resources available. Consider your state management, as refactoring a monolith may require effort here. Try to ensure that the knowledge stays with the code, so make sure an existing developer familiar with the code participates in its migration to the cloud. Minimize divergence between cloud and your existing estate. This exercise will ensure all understand that it's a commitment to move to cloud native.
+
+如果可能的话，可以从一个典型的微服务应用程序开始，并确认其运行正常且人们熟悉它。如果可能，尝试从微服务应用程序开始您的云原生之旅。如果有意义，可以尝试使用现有的单块应用程序，因为这将揭示您在云原生之旅中所需的工具和依赖项，例如 kubectl、网络连接和其他主题。
+
+您的业务需要审查微服务模式和架构，并尝试了解应用程序的具体情况。一定要考虑诸如延迟、可靠性、扩展性和第三方工具等非功能性要求。如果要转换单块应用程序，则可能需要对应用程序进行重大的重新设计，因为现有的需求可能没有可用的技术资源。考虑您的状态管理，因为重构单块应用程序可能需要在此方面投入努力。请确保知识保留在代码中，因此确保熟悉代码的现有开发人员参与其迁移到云的过程。尽量减少云和现有资产之间的差异。此练习将确保所有人都明白这是一项承诺，要迁移到云原生。
 
 ### Application Release and Operations
 
