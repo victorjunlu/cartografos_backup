@@ -5,19 +5,22 @@ description: >
    您已经完成了一个基础的云原生实现，并处于预生产阶段。
 ---
 
-## <i class="fas fa-users"></i> People 
+## <i class="fas fa-users"></i> People 人员
 
-### People Overview
+### People Overview 人员概览
 
 Cloud native framework is driving your business and technical goals. You and your team are new to the technology, however do have some basic technical understanding and some pre-existing qualifications. Your business leaders understand the benefits of cloud native.
+云原生框架正在推动您的业务和技术目标。您和您的团队对这项技术还很新，但是具备一些基本的技术理解和一些现有的资质。您的业务领导人了解云原生的好处。
 
-### Organizational Change
+### Organizational Change 组织变革
 
 As you transform, you will have limited organizational support and will be in a proof of concept (POC) phase or be focused on only one application.
+在您进行转型时，您将有限的组织支持，可能处于概念验证（POC）阶段或仅专注于一个应用程序。
 
-### Teams and Decentralization
+### Teams and Decentralization 团队和分权化
 
 Teams are exploring cloud native tooling, primarily Kubernetes. However, this is not just for the sake of exploring, but rather it is with the goal of reaching production. All work is generally taking place within a formal MVP program.
+团队正在探索云原生工具，主要是Kubernetes。然而，这并不仅仅是为了探索，而是为了达到生产目标。所有的工作通常都是在一个正式的MVP计划中进行。
 
 ### Security
 
