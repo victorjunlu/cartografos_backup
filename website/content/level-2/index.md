@@ -71,13 +71,15 @@ You’ll focus on production promotion of basic applications. This includes bein
 您将专注于基本应用程序的生产推广。这包括熟练掌握 Git 和 CI。您还将制定结构化的构建和部署流程，展示云和容器本地 CI/CD 系统的特点。
 
 
-### CI/CD
+### CI/CD CI/CD（持续集成/持续交付）
 
 For your application, you will institute structured build and deployment processes that exhibit the qualities of a cloud and container native CI/CD system.
+对于您的应用程序，您将制定结构化的构建和部署流程，展示云和容器本地 CI/CD 系统的特点。
 
-### Change Control
+### Change Control  变更控制
 
 Here you develop a fundamental understanding of the workflow from source control management (scm) to deployment and have access to merge/tag commits in scm to trigger deployments.
+在这里，您将建立对从源代码管理（scm）到部署的工作流程的基本理解，并可以访问合并/标记提交以触发部署。
 
 ### Security
 
