@@ -124,28 +124,36 @@ Because production is your goal, you’ve built Kubernetes clusters for producti
 You’re working in production now. You will experiment with tooling to augment the basics in production to help with security, policy management, workload misconfigurations, resource requests and limits. Key security practices for container hygiene are being incorporated.
 您现在正在生产环境中工作。您将尝试使用工具来增强生产环境中的基础设施，以帮助处理安全、策略管理、工作负载错误配置、资源请求和限制等方面。正在纳入关键的安全实践以保持容器卫生。
 
-### Application Patterns and Refactoring
+### Application Patterns and Refactoring 应用程序模式和重构
 
 You're in production, with your first APIs exposed. Consider developing a “microservices first” framework particularly if your first choice is always a microservices approach. If not, consider moving applications suitable for lift and shift or don't migrate the app until later.
+您已经进入生产环境，首个API已经暴露出来。考虑开发“以微服务为先”的框架，尤其是如果您的第一选择总是微服务方法。如果不是，请考虑将适合升级和迁移的应用程序移动，或者等到以后再迁移该应用程序。
 
-### Application Release and Operations
+### Application Release and Operations 应用程序发布和运营
 
 For your initial steps into production, you’ll be using CI or release tooling, kubectl and kustomize to potentially deploy your first smaller applications. It’s really important by now that you develop key skills in Kubernetes configuration.
+在您初步进入生产环境时，您将使用CI或发布工具，kubectl和kustomize来部署您的首批较小的应用程序。现在非常重要的是，您需要在Kubernetes配置方面发展关键技能。
 
-### Security and Policy
+### Security and Policy 安全和策略
 
 Ensure that your development and operations groups are following good practice with containers, secrets and security. Because you are in production, you will want to ensure that you have encryption as well and authentication and authorization addressed.
+确保您的开发和运营团队在容器、秘密和安全方面遵循良好的实践。因为您处于生产环境中，所以您需要确保具备加密、身份验证和授权的功能。
 
-### Testing and Issue Detection
+### Testing and Issue Detection 测试和问题检测
 
 Now that you are in production, you’ll be experimenting with tooling to help with security, policy management, workload misconfigurations, resource requests, limits and observability, in your staging or development environment.
+现在您已经进入生产环境，您将在您的暂存或开发环境中尝试使用工具来帮助处理安全、策略管理、工作负载错误配置、资源请求和限制以及可观测性等方面。
 
-## <i class="fas fa-building"></i> Business Outcomes
+## <i class="fas fa-building"></i> Business Outcomes 业务成果
 
 Cloud native is now established and your technologists are moving to production. While the technical outcome of Level 2 is a fully functional application or group of applications migrated to cloud native tools and practices, the business outcomes are the ability to evaluate the benefits of the migrations. This is also the level that most customers/corporations get to and plateau. This is when a cloud native maturity model shows its true value.
+云原生现在已经成熟，您的技术人员正在向生产环境转移。尽管第2级的技术结果是将应用程序或一组应用程序完全迁移到云原生工具和实践中，但业务结果是能够评估迁移的好处。这也是大多数客户/公司达到并停滞的级别。这时云原生成熟度模型展现出其真正的价值。
 
 With your established KPIs from Level 1, you will measure success and communicate this to stakeholders.
+通过你在Level 1建立的关键绩效指标，你将衡量成功并将其传达给利益相关者。
 
 In the operation phase, you will be focused on moving to production. You’ll have established standards around technology, your people will be operating it and implementing policy and process. Your business outcome will be around production migration. The business leadership of your organization will want to understand what applications are being moved and why. Be able to clearly communicate the plans to your business leaders. Repeatable patterns will also emerge as teams operate in Level 2. These will be applied to your business outcomes so that benefits you see in one migrated application can be applied to another without as much as a heavy lift. These patterns will help streamline operations across your dev, sec and ops teams.
+在操作阶段，你将专注于进入生产阶段。你会制定技术标准，你的团队将运作并实施策略和流程。你的业务成果将围绕生产迁移展开。你的组织业务领导层希望了解哪些应用正在移动以及为什么。能够清楚地向你的业务领导传达计划。随着团队在Level 2中的运作，可重复的模式也会出现。这些模式将应用于你的业务成果，以便在迁移另一个应用程序时，你能够从一个应用程序中看到的好处不需要太大的投入就可以得到应用。这些模式将有助于简化你的开发、安全和运营团队的运作。
 
 Your KPIs can also include your return on investment ROI, but know that in Level 2, your ROI will be lower than when you reach Level 5. This is because you are investing a lot in acquiring tools, establishing the right team and skill set, whereas in Level 5 you are optimizing.
+你的KPI还可以包括你的投资回报率ROI，但要知道在Level 2中，你的ROI将低于当你达到Level 5时。这是因为你在获得工具、建立合适的团队和技能方面投入了很多，而在Level 5中，你正在优化。
