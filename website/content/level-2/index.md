@@ -81,27 +81,31 @@ For your application, you will institute structured build and deployment process
 Here you develop a fundamental understanding of the workflow from source control management (scm) to deployment and have access to merge/tag commits in scm to trigger deployments.
 在这里，您将建立对从源代码管理（scm）到部署的工作流程的基本理解，并可以访问合并/标记提交以触发部署。
 
-### Security
+### Security 安全
 
 Build security into your CI process including container scanning and configuration scanning.
+将安全性纳入您的CI过程中，包括容器扫描和配置扫描。
 
-### Audit and Logs
+### Audit and Logs 审计和日志
 
 Spend time defining log aggregation.
+花时间定义日志聚合
 
+## <i class="fas fa-edit"></i> Policy 策略
 
-## <i class="fas fa-edit"></i> Policy
-
-### Policy Overview
+### Policy Overview 策略概述
 As your services approach production, you have initial policies agreed as standard and these are mostly documented.
+当您的服务逐渐进入生产阶段时，您需要制定初始政策作为标准，并且大多数这些政策都需要有文件记录。
 
-### Policy Creation
+### Policy Creation 策略创建
 
 Define initial resource metrics and start collecting data.
+定义初始资源指标并开始收集数据。
 
-### Compliance
+### Compliance  合规性
 
 Initial auditing, carried out manually or through simple scripts.
+初始审计，可以通过手动或简单脚本进行。
 
 ## <i class="fas fa-server"></i> Technology
 
