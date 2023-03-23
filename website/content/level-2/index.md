@@ -47,23 +47,29 @@ Your wider development team is able to operate the fundamentals of Kubernetes in
 - 执行基本操作（机械操作，对其工作原理的理解有限）
 
 
-### CNCF Certifications
+### CNCF Certifications CNCF 认证
 
 Organizations may wish to consider the CKA and CKAD exams around level 2 and 3.
+组织可能希望在 2 级和 3 级左右考虑 CKA 和 CKAD 考试。
 
-#### Certified Kubernetes Administrator (CKA)
+#### Certified Kubernetes Administrator (CKA) 认证 Kubernetes 管理员 (CKA)
 
 This program provides assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators.
+该计划确保 CKAs 具备执行 Kubernetes 管理员职责所需的技能、知识和能力。
 
-#### Certified Kubernetes Application Developer (CKAD)
+#### Certified Kubernetes Application Developer (CKAD)  认证 Kubernetes 应用开发者 (CKAD)
 
 This exam certifies that users can design, build, configure, and expose cloud native applications for Kubernetes.
+该考试证明用户可以为 Kubernetes 设计、构建、配置和公开云原生应用程序。
 
-## <i class="fas fa-cogs"></i> Process
+## <i class="fas fa-cogs"></i> Process 流程
 
-### Process Overview
+### Process Overview 流程概述
 
 You’ll focus on production promotion of basic applications. This includes being well established with Git and CI. You are also instituting structured build and deployment processes that exhibit the qualities of a cloud and container native CI/CD system.
+
+您将专注于基本应用程序的生产推广。这包括熟练掌握 Git 和 CI。您还将制定结构化的构建和部署流程，展示云和容器本地 CI/CD 系统的特点。
+
 
 ### CI/CD
 
