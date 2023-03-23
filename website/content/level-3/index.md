@@ -1,6 +1,6 @@
 ---
-title: Level 3 - Scale
-description: Your competency is growing and you are defining processes for scale.
+title: Level 3 - Scale 标题：Level 3 - 规模
+description: Your competency is growing and you are defining processes for scale. 描述： 你的能力正在增长，你正在为扩展定义流程。
 ---
 
 ## <i class="fas fa-users"></i> People 
