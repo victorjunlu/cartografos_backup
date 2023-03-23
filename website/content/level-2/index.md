@@ -1,37 +1,51 @@
 ---
-title: Level 2 - Operate
-description: The cloud native foundation is established and you are moving to production.
+title: Level 2 - Operate 第二级 - 运营
+description: The cloud native foundation is established and you are moving to production. 描述：云原生基础已经建立，您正在转向生产。
 ---
 
-## <i class="fas fa-users"></i> People 
+## <i class="fas fa-users"></i> People 人员
 
-### People Overview
+### People Overview 人员概述
 
 Individuals are actively invested in training and skills. The outcome is that small pockets of SMEs and expertise are appearing. DevOps has started to appear with inclusion of cloud skill engineers and developer groups offering platform skills. Cloud Native efforts are also owned by members of leadership.
 
-### Organizational Change
+个人积极投入培训和技能。结果是出现了小型的SMEs和专业知识团队。DevOps已经开始出现，包括云技术工程师和开发人员团队提供平台技能。云原生的努力也由领导成员拥有。
+
+### Organizational Change 组织变革
 
 Organizational change is happening. You will define project teams, create agile project groups and have quick feedback/testing loops.
+组织变革正在发生。您将定义项目团队，创建敏捷项目组，并拥有快速反馈/测试回路。
 
-### Teams and Decentralization
+### Teams and Decentralization 团队和去中心化
 
 We are starting to formalize central services and responsibilities, including the consolidation of tooling, as well as the culling or evaporation of non-cloud native tooling.
+我们开始正式化中央服务和责任，包括工具的整合，以及淘汰或消除非云原生工具。
 
-### Security
+### Security 安全
 
 Your team needs to focus on who is responsible for Kubernetes cluster security and how it will be managed. That will require the inclusion of the security team.
+您的团队需要关注谁负责Kubernetes集群的安全以及如何管理它。这将需要纳入安全团队。
 
-### Developer Agility
+### Developer Agility 开发人员敏捷性
 
 The team is comfortable with technically challenging problems and how cloud native can help. There is an organizational commitment to decentralisation and automated testing of builds, with automated deployments to some environments.
+团队对技术上具有挑战性的问题以及云原生如何帮助解决这些问题感到自在。组织致力于去中心化和构建的自动化测试，自动部署到某些环境。
 
-### Upskilling Developers
+### Upskilling Developers 开发人员技能提升
 
 Your wider development team is able to operate the fundamentals of Kubernetes including:
 - Connecting an operator to the Kubernetes API
 - Become comfortable with Kubectl commands
 - Understanding how to list and view resources
 - Performing basic actions (mechanical actions with limited understanding of how it works)
+
+您更广泛的开发团队能够操作Kubernetes的基本原理，包括：
+
+- 将操作者连接到Kubernetes API
+- 熟悉Kubectl命令
+- 了解如何列出和查看资源
+- 执行基本操作（机械操作，对其工作原理的理解有限）
+
 
 ### CNCF Certifications
 
