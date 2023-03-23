@@ -107,19 +107,22 @@ Define initial resource metrics and start collecting data.
 Initial auditing, carried out manually or through simple scripts.
 初始审计，可以通过手动或简单脚本进行。
 
-## <i class="fas fa-server"></i> Technology
+## <i class="fas fa-server"></i> Technology 技术
 
-### Technology Overview
+### Technology Overview 技术概述
 
 This marks your first step into production. You’ve worked hard to build your foundation in Level 1, and now you are moving to production. You might have started with something relatively small and simple, but this leap to production has certainly required you to address some significant steps. You’ll probably have had to incorporate monitoring and observability into your workloads. You’ll have brought key observability tooling in and started monitoring your clusters for standard metrics such as RAM, CPU etc. While you might be starting to evaluate application tracing, don’t worry about it too much if you have started to gather core metrics. Your focus here is on getting an application running in production and having enough platform resource, observability and operational capability to support it within your organization.
+这标志着您迈入生产阶段的第一步。您在 Level 1 中努力构建了基础，现在正在进入生产阶段。您可能从相对较小和简单的东西开始，但是这次跃升到生产阶段肯定需要您解决一些重要的步骤。您可能已经将监视和可观察性纳入您的工作负载中。您将引入关键的可观察性工具，并开始监视集群的标准指标，例如RAM、CPU等。虽然您可能开始评估应用程序跟踪，但是如果您已经开始收集核心指标，不要过于担心。您的重点是使应用程序在生产环境中运行，并拥有足够的平台资源、可观察性和运营能力来支持它在您的组织内运行。
 
-### Infrastructure
+### Infrastructure 基础设施
 
 Because production is your goal, you’ve built Kubernetes clusters for production with a focus on reliability and security.
+由于生产是您的目标，因此您已经构建了针对可靠性和安全性的生产用 Kubernetes 集群。
 
-### Container and Runtime Management
+### Container and Runtime Management 容器和运行时管理
 
 You’re working in production now. You will experiment with tooling to augment the basics in production to help with security, policy management, workload misconfigurations, resource requests and limits. Key security practices for container hygiene are being incorporated.
+您现在正在生产环境中工作。您将尝试使用工具来增强生产环境中的基础设施，以帮助处理安全、策略管理、工作负载错误配置、资源请求和限制等方面。正在纳入关键的安全实践以保持容器卫生。
 
 ### Application Patterns and Refactoring
 
