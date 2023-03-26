@@ -101,13 +101,15 @@ Policy compliance and auditing carried out through automated means on Kubernetes
 Here you start to scale. Your suite of tools is more standardized. You're getting your release tooling, secrets management and policy tooling in place. You’re also starting to get a level of buy-in across your organization, which is helping to propel you forward. This is where you will be running the largest number of tools as you will be in the thick of evaluating, implementing, and running in production.
 在这里，您开始扩展规模。您的工具套件更加标准化。您正在安装发布工具、密钥管理和策略工具。您还开始在整个组织中获得一定程度的认可，这有助于推动您前进。这是您将运行最多工具的地方，因为您将处于评估、实施和生产运行的繁忙阶段。
 
-### Infrastructure
+### Infrastructure 基础架构
 
 As part of building confidence in your cloud infrastructure, you need to gain visibility into what your infrastructure is doing. Developing your monitoring, alerting and resource usage capabilities is going to be your focus. An important consideration here is that where previously you may have considered machine-specific properties such as CPU, RAM etc, you’ll also want to factor in cluster resource metrics also. Additionally, you’ll replace components when they fail rather than spending time remediating issues in production. This builds on Level 2. Furthermore, you may also look to manage infrastructure with Kubernetes like you would software.
+基于建立对云基础架构的信心，你需要获得对基础架构正在执行的操作的可见性。你的重点将是发展监控、警报和资源使用能力。一个重要的考虑因素是，在以前，你可能考虑了与机器特定属性相关的指标，如 CPU、RAM 等，但现在你也需要考虑集群资源指标。此外，你将在组件发生故障时进行替换，而不是在生产环境中花费时间修复问题。这是建立在 Level 2 基础上的。此外，你还可以像管理软件一样，使用 Kubernetes 管理基础架构。
 
-### Container and Runtime Management
+### Container and Runtime Management 容器和运行时管理
 
 Whereas in Level 2 you’ve been experimenting, in Level 3, as you increase your workload, and as you scale, you need consistent tooling across clusters to gain continuous visibility into your Kubernetes clusters. This should include automatic scanning and having runtime observability of what is occurring within your containers and your cluster. CNCF projects are good options here. You will have alerting and dashboards in place.
+在第二级阶段中，您一直在进行试验，但在第三级阶段，随着工作量的增加和规模的扩大，您需要跨集群使用一致的工具，以持续了解您的 Kubernetes 集群。这应该包括自动扫描，并且具有运行时可观察性，了解容器和集群中发生的情况。CNCF 项目是很好的选择。您将建立警报和仪表板。
 
 ### Application Patterns and Refactoring
 
