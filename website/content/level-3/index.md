@@ -139,6 +139,9 @@ In Level 3, your competency is growing and you are scaling. Up to this point, yo
 You will have safeguarded your application or service from a single point of failure or disappointing performance in Level 3.
 
 Monitoring is implemented. This will help the business get reports on what’s working and what isn't working. While the monitoring may be very specific, it will also provide insights into resource utilization to control costs and performance to ensure availability.
+在第三级，您将保护您的应用程序或服务免受单点故障或性能不佳的影响。
+
+已实施监控。这将帮助企业获得有关工作情况和问题的报告。虽然监控可能非常具体，但它也将提供资源利用率的见解，以控制成本和确保可用性。
 
 Finally, you should be observing the flexibility and scalability of cloud native by comparing old vs. new:
 
@@ -147,3 +150,9 @@ Finally, you should be observing the flexibility and scalability of cloud native
 - Observability: Logging, metrics and tracing. Business translation: quicker responsiveness to changes in application behavior or business demand. Better customer experience and reduction in lost sales due to service degradation.
 - Improved Reusability: containers and microservices make it easier to reuse components already available from previous projects. Business translation: 1. guarantee of brand image consistency and standardized functionalities throughout the multiple apps; 2. a lower learning curve for customers using those apps.
 
+最后，您应该通过比较新旧技术来观察云原生的灵活性和可扩展性：
+
+- 采用基础架构即代码，部署服务器只需几分钟而不是几天。业务转化：更快的上市时间。
+- 监控安全攻击。业务转化：降低风险，避免数据被盗。
+- 可观察性：日志记录、指标和跟踪。业务转化：更快地响应应用行为或业务需求的变化。更好的客户体验，减少由于服务退化而导致的销售损失。
+- 改进的可重用性：容器和微服务使得更容易重用之前项目中已有的组件。业务转化：1.保证品牌形象的一致性和多个应用程序中的标准功能；2.减少客户使用这些应用程序的学习曲线。
