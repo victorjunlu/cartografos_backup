@@ -50,47 +50,56 @@ This program provides assurance that CKAs have the skills, knowledge, and compet
 This exam certifies that users can design, build, configure, and expose cloud native applications for Kubernetes.
 该考试认证用户能够为 Kubernetes 设计、构建、配置和暴露云原生应用程序。
 
-## <i class="fas fa-cogs"></i> Process
+## <i class="fas fa-cogs"></i> Process 流程
 
-### Process Overview
+### Process Overview 流程概述
 
 You will implement standardization across the organization with the benefit of improving onboarding and expanding your cloud native footprint and awareness. You will create a feedback loop. You will invest in repeatability. Do you have the tools in place that are accessible to everyone? Do you have Git services? Have you implemented workspace collaboration to save time, labor or avoid duplication? Finally, what is your process for measuring resource usage? In level three, you should be measuring your container usage, CPU and memory (runtime and uptime). Automation and processes associated with software release will also be extended to platforms. Lifecycle operations such as upgrades and patching, particularly CVEs and critical updates will benefit from further automation and the introduction of Infrastructure-as-code technologies.
+您将在整个组织中实施标准化，以改善入职流程，扩大您的云原生印记和认知度。您将创建一个反馈循环。您将投资于可重复性。您是否已经为所有人提供了可访问的工具？您是否有 Git 服务？您是否实施了工作空间协作以节省时间、劳动力或避免重复？最后，您的资源使用量测量过程是什么？在第三级，您应该测量容器使用量、CPU 和内存（运行时间和正常运行时间）。与软件发布相关的自动化和流程也将扩展到平台。生命周期操作（例如升级和修补程序，特别是 CVE 和关键更新）将受益于进一步的自动化和基础架构即代码技术的引入。
 
 ### CI/CD
 
 You are implementing a center of excellence around your CI/CD process.
+您正在围绕您的 CI/CD 流程实施卓越中心。
 
-### Change Control
+### Change Control 变更控制
 
 Your code quality is improving as measured with automated tooling and you are seeing CI and test success frequently.
+您的代码质量正在提高，使用自动化工具进行衡量，您经常看到 CI 和测试成功。
 
-### Security
+### Security 安全
 
 Implement automatic continuous scanning to flag misconfigurations or security issues.
+实施自动连续扫描，以标记配置错误或安全问题。
 
-### Audit and Logs
+### Audit and Logs 审计和日志
 
 Start to audit and implement initial alerts. Filter noise.
+开始审计并实施初始警报。过滤噪音。
 
-## <i class="fas fa-edit"></i> Policy
+## <i class="fas fa-edit"></i> Policy 策略
 
-### Policy Overview
+### Policy Overview 策略概述
 
 You will implement policy-as-code and build this into your CI pipeline.
+您将实施策略即代码，并将其构建到您的 CI 流水线中。
 
-### Policy Creation
+### Policy Creation 策略创建
 
 Create policies based on metrics refined around security, efficiency and reliability.
+根据围绕安全性、效率和可靠性精细化的度量创建策略。
 
-### Compliance
+### Compliance 合规性
 
 Policy compliance and auditing carried out through automated means on Kubernetes. This will likely include initial development of policy-as-code.
+在 Kubernetes 上通过自动化手段进行策略合规性和审计。这可能包括策略即代码的初始开发。
 
-## <i class="fas fa-server"></i> Technology
+## <i class="fas fa-server"></i> Technology 技术
 
-### Technology Overview
+### Technology Overview 技术概述
 
 Here you start to scale. Your suite of tools is more standardized. You're getting your release tooling, secrets management and policy tooling in place. You’re also starting to get a level of buy-in across your organization, which is helping to propel you forward. This is where you will be running the largest number of tools as you will be in the thick of evaluating, implementing, and running in production.
+在这里，您开始扩展规模。您的工具套件更加标准化。您正在安装发布工具、密钥管理和策略工具。您还开始在整个组织中获得一定程度的认可，这有助于推动您前进。这是您将运行最多工具的地方，因为您将处于评估、实施和生产运行的繁忙阶段。
 
 ### Infrastructure
 
