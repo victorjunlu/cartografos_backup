@@ -46,11 +46,13 @@ Achieving process maturity will see you build design capabilities for cloud nati
 Achieving maturity ensures you can demonstrate the benefit of your CI/CD process to the organization. You’ll be able to clearly see an increase in velocity, continuous deployment speed and see the effect on your business. For example, you will ship new features faster.
 实现成熟度确保您可以向组织展示CI/CD流程的好处。您将能够清楚地看到速度增加、持续部署速度的提高以及对业务的影响。例如，您将更快地推出新功能。
 
-### Change Control
+### Change Control 变更控制
 You now have quality engineering (QE) capability. That means you have quality guardrails in place, continuous deployment to production with only a failed automated test preventing an update being automatically released to production. You are seeing fewer defects, hotfixes and bug fixes being released. You now have best practices in place and have removed human access from production in favor of service accounts. You are also using monitoring failures to restart or manage problematic and failing resources.
+现在，您拥有质量工程（QE）能力。这意味着您已经建立了质量保障措施，并实现了对生产环境的持续部署，只有自动化测试失败才会阻止更新自动发布到生产环境。您发现发布的缺陷、热修复和错误修复越来越少。现在，您已经建立了最佳实践，并采用了服务账户取代了人员对生产环境的访问。您还使用监控故障来重新启动或管理问题和失败的资源。
 
-### Security
+### Security 安全
 The software supply chain is secured, with reproducible builds and software bills of materials providing insight into code and dependencies, with clear code provenance and secured release pipelines.You've shifted security left. You are preserving security by continuously monitoring Kubernetes for security and vulnerabilities.
+软件供应链已经得到保障，具备可重复构建和软件材料清单的功能，可提供代码和依赖关系的洞察力，具备明确的代码来源和安全的发布流程。您已经将安全工作前移。通过持续监测 Kubernetes 的安全性和漏洞来维护安全。
 
 ### Audit and Logs
 You are enforcing audits.
