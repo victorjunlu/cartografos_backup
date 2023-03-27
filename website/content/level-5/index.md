@@ -54,28 +54,33 @@ You now have quality engineering (QE) capability. That means you have quality gu
 The software supply chain is secured, with reproducible builds and software bills of materials providing insight into code and dependencies, with clear code provenance and secured release pipelines.You've shifted security left. You are preserving security by continuously monitoring Kubernetes for security and vulnerabilities.
 软件供应链已经得到保障，具备可重复构建和软件材料清单的功能，可提供代码和依赖关系的洞察力，具备明确的代码来源和安全的发布流程。您已经将安全工作前移。通过持续监测 Kubernetes 的安全性和漏洞来维护安全。
 
-### Audit and Logs
+### Audit and Logs  审计和日志
 You are enforcing audits.
+您正在执行强制审计。
 
-## <i class="fas fa-edit"></i> Policy
+## <i class="fas fa-edit"></i> Policy 策略
 
-### Policy Overview
+### Policy Overview 策略概述
 
 Based on your learnings, you will refine your policies as your organization achieves maturity, taking advantage of technologies such as machine learning in order to improve detection and enforcement.
+基于您的学习，随着组织成熟度的提高，您将完善策略，并利用诸如机器学习等技术来改进检测和执行。
 
-### Policy Creation
+### Policy Creation 策略创建
 
 Contribute policies to the open source community and active engagement with regulators and other external stakeholders.
+向开源社区贡献策略，并积极参与监管机构和其他外部利益相关者的互动。
 
-### Compliance
+### Compliance 合规性
 
 Compliance never ends! You will tighten the feedback loop with stakeholders and take advantage of advanced machine learning and other tooling to understand what is normal for your environment and ensure visibility of anomalous conditions in a large volume of compliance data.
+合规永无止境！您将加强与利益相关者的反馈循环，并利用先进的机器学习和其他工具来了解您的环境的正常情况，并确保在大量合规性数据中看到异常情况的可见性。
 
 ## <i class="fas fa-server"></i> Technology
 
-### Technology Overview
+### Technology Overview 技术概述
 
 Your investment is now focused on automation in functional and non-functional areas such as scanning, policy, security and testing. You’ve got operators doing your operations for you and you’re fully automated.
+您的投资现在集中于在扫描、策略、安全和测试等功能和非功能领域中的自动化。您已经有运营商为您执行操作，而您也已经完全自动化了。
 
 ### Infrastructure
 
