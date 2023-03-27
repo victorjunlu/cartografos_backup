@@ -1,42 +1,50 @@
 ---
-title: Level 5 - Optimize
-description: You are revisiting decisions made earlier and monitoring applications and infrastructure for optimization.
+title: Level 5 - Optimize　　标题：Level 5 - 优化
+description: You are revisiting decisions made earlier and monitoring applications and infrastructure for optimization.　描述：您正在重新审视早期做出的决策，并监视应用程序和基础设施以进行优化。
 ---
 
-## <i class="fas fa-users"></i> People 
+## <i class="fas fa-users"></i> People 人员
 
-### People Overview
+### People Overview　人员概述
 
 You've reached maturity, the organization is skilled and you have DevOps and DevSecOps working. Teams are comfortable experimenting with new technologies and sandbox trials.
+您已经达到了成熟期，组织具备了技能，拥有了DevOps和DevSecOps团队。团队已经逐渐熟悉了尝试新技术和沙箱试验。
 
-### Organizational Change
+### Organizational Change　组织变革
 
 At maturity, the entire organization is committed and onboarded to the cloud native environment.
+在成熟期，整个组织都致力于云原生环境，并已加入到其中。
 
-### Teams and Decentralization
+### Teams and Decentralization　团队和去中心化
 
 You now have self-provisioning amongst different groups, along with organizational acceptance of the self-service portal. The business benefits from service ownership.
+现在，不同团队之间已经具备了自我配置的能力，同时组织也接受了自助服务门户。业务从服务所有权中获益。
 
-### Security
+### Security 安全
 
 You will be actively developing security internally, with the community and regulators.
+您将积极在内部、社区和监管机构中开展安全开发。
 
-### Developer Agility
+### Developer Agility 开发人员的敏捷性
 The group has strong ability to recover and maintain throughput tolerating individuals joining and leaving. Business decisions are well informed by rich and accurate data across all teams in the organization allowing adoption of FinOps.
+该团队具有强大的恢复和维护能力，能够容忍个体的加入和离开，业务决策受到组织内所有团队丰富而准确的数据支持，使得采用FinOps成为可能。
 
-### Upskilling Developers
+### Upskilling Developers 开发人员技能提升
 
 Advanced testing and release patterns developed and in use, such as blue/green or canary
+已经开发并使用了高级的测试和发布模式，例如蓝/绿或金丝雀部署。
 
-## <i class="fas fa-cogs"></i> Process
+## <i class="fas fa-cogs"></i> Process 过程
 
-### Process Overview
+### Process Overview 过程概述
 
 Achieving process maturity will see you build design capabilities for cloud native. You’ll also automate responses by using monitoring failures to restart or manage problematic and failing resources. Resource usage data will help you optimize spend and your process will include providing the business cost analysis.
+实现过程成熟度将使您构建云原生的设计能力。您还将使用监控故障来自动响应并重新启动或管理有问题的资源。资源使用数据将帮助您优化支出，并且您的过程将包括提供业务成本分析。
 
 ### CI/CD
 
 Achieving maturity ensures you can demonstrate the benefit of your CI/CD process to the organization. You’ll be able to clearly see an increase in velocity, continuous deployment speed and see the effect on your business. For example, you will ship new features faster.
+实现成熟度确保您可以向组织展示CI/CD流程的好处。您将能够清楚地看到速度增加、持续部署速度的提高以及对业务的影响。例如，您将更快地推出新功能。
 
 ### Change Control
 You now have quality engineering (QE) capability. That means you have quality guardrails in place, continuous deployment to production with only a failed automated test preventing an update being automatically released to production. You are seeing fewer defects, hotfixes and bug fixes being released. You now have best practices in place and have removed human access from production in favor of service accounts. You are also using monitoring failures to restart or manage problematic and failing resources.
