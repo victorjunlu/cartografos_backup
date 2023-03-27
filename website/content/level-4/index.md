@@ -56,38 +56,46 @@ The governance model in place will support DevSecOps. You have guardrails in pla
 ### CI/CD
 
 You will measure your release velocity and cadence to make improvements.
+您将测量发布速度和节奏，以进行改进。
 
-### Change Control
+### Change Control 变更控制
 
 You have continuous delivery, but no continuous deployment to production - you still have a gate to production that requires operator approval.
+您已经实现了持续交付，但是没有持续部署到生产环境 - 您仍然需要一个进入生产环境的门，需要操作员批准。
 
-### Security
+### Security 安全性
 
 Ensure security remediation is automated and/or identified automatically with remediation advice.
+确保安全修复是自动化的和/或可以自动识别，并提供修复建议。
 
-### Audit and Logs
+### Audit and Logs 审计和日志
 
 Audit and alerts become mainstream and are made mandatory across applications.
+审计和警报已经变得主流，并且已经成为各种应用程序的强制要求。
 
 ## <i class="fas fa-edit"></i> Policy
 
-### Policy Overview
+### Policy Overview 策略概述
 
 You now have defined SLAs around policies and remediation.
+您现在已经定义了关于策略和修复的服务级别协议（SLA）。
 
-### Policy Creation
+### Policy Creation 策略创建
 
 Customize policies based on your business needs and minimize exceptions.
+根据您的业务需求定制策略，并尽量减少例外情况。
 
-### Compliance
+### Compliance 合规性
 
 Expansion of policy tooling to include applications such as traffic proxies, service mesh, message buses and Linux. This will broaden the scope of managed policies, but it will also help in having them under control by way of declarative configurations.
+扩展策略工具，包括流量代理、服务网格、消息总线和 Linux 等应用程序。这将扩大受管策略的范围，但也将有助于通过声明性配置将其控制在管理之下。
 
-## <i class="fas fa-server"></i> Technology
+## <i class="fas fa-server"></i> Technology 技术
 
-### Technology Overview
+### Technology Overview 技术概述
 
 You’ve got full control over your environment, and you’ve built your confidence, with rapid adoption of cloud native patterns for new applications and platforms. You’ve also gained organizational commitment to cloud native and this is adding to your momenting. You’re starting to feel like you’ve “crossed the chasm.”
+您对环境拥有完全控制，并且通过快速采用云原生模式为新应用程序和平台建立了信心。您还获得了组织对云原生的承诺，这正在增加您的动力。您开始感觉自己已经“跨越了鸿沟”。
 
 ### Infrastructure
 
