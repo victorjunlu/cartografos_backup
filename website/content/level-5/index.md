@@ -82,36 +82,49 @@ Compliance never ends! You will tighten the feedback loop with stakeholders and 
 Your investment is now focused on automation in functional and non-functional areas such as scanning, policy, security and testing. You’ve got operators doing your operations for you and you’re fully automated.
 您的投资现在集中于在扫描、策略、安全和测试等功能和非功能领域中的自动化。您已经有运营商为您执行操作，而您也已经完全自动化了。
 
-### Infrastructure
+### Infrastructure 基础设施
 
 Here you are managing your complete infrastructure lifecycle through software and tooling. Builds, upgrades, decommissioning is all taking place through code.
+在这里，您通过软件和工具管理完整的基础设施生命周期。构建、升级、停用都是通过代码进行的。
 
-### Container and Runtime Management
+### Container and Runtime Management 容器和运行时管理
 
 You’re now automating the response to events, and you have all your security data in one central repository. The platform is able to respond to events.
+您现在正在自动响应事件，并将所有安全数据放在一个中央存储库中。该平台能够响应事件。
 
-### Application Patterns and Refactoring
+### Application Patterns and Refactoring 应用程序模式和重构
 
 Unless applications have specific requirements, such as extremely low latency, new greenfield applications are cloud native. You’ll look to onboard your existing portfolio of applications to your cloud native platform using your proven process. You’ll see now that your application matches your platform strengths and capabilities.
+除非应用程序具有特定的要求，例如极低的延迟，否则新的绿地应用程序都是云原生的。您将使用经过验证的流程将现有的应用程序组合上云原生平台。您现在会发现，您的应用程序与平台的优势和功能匹配。
 
-### Application Release and Operations
+### Application Release and Operations 应用程序发布和运营
 
 You’re now in full production with GitOps operators and controls, and your release and operations workflows reside within Git.
+现在，您已经全面投入生产中，使用 GitOps 操作符和控件，并将发布和操作工作流程嵌入到 Git 中。
 
-### Security and Policy
+### Security and Policy 安全和策略
 
 Here you will have ongoing optimization and adjustment in line with new requirements, aligning with the ongoing threat environment. Exceptions to policy are both minimized, and are formally controlled. You may incorporate machine learning as part of your threat detection practices.
+在这里，您将根据新的要求持续优化和调整，与持续变化的威胁环境保持一致。对策略的例外情况将最小化，并且将被正式控制。您可以将机器学习纳入威胁检测实践的一部分。
 
-### Testing and Issue Detection
+### Testing and Issue Detection 测试和问题检测
 
 Here we further optimize the automation used in responses to issues by working to prevent mistakes from entering production in the first place.
+在这里，我们进一步优化响应问题时使用的自动化，通过努力防止错误首先进入生产来预防问题。
 
-## <i class="fas fa-building"></i> Business Outcomes
+## <i class="fas fa-building"></i> Business Outcomes 业务结果
 
 This phase of optimization will see lots of changes with people, process, policy and technology. For the business, you should have achieved your business goals and have the measurable results to show your leadership teams, CEO, CFO or the board.
+这个优化阶段将涉及人员、流程、策略和技术等方面的许多变化。对于业务而言，您应该已经实现了您的业务目标，并拥有可衡量的结果来展示给您的领导团队、CEO、CFO或董事会。
 
 You will continue to optimize your workloads against further / more advanced cost and performance metrics. You will never stop optimizing your cloud native infrastructure and apps. Here the expected business outcome is the ability to track how optimization continues to move the bar against established goals.
 
 You may also revisit your goals at this point, adjusting them to what has been achieved and what you want to achieve in future.
 
 You’ll automate as much as possible according to cloud native best practices to remove human error as to avoid security and performance problems.
+
+您将继续根据进一步/更高级别的成本和性能指标优化您的工作负载。您永远不会停止优化您的云原生基础架构和应用程序。在这里，期望的业务结果是能够跟踪优化如何继续推动实现既定目标的能力。
+
+在这一点上，您还可以重新审视您的目标，将其调整为已经实现的目标以及未来想要实现的目标。
+
+根据云原生最佳实践，您将尽可能自动化，以消除人为错误，避免安全和性能问题。
