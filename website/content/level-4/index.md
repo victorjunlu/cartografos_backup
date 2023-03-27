@@ -10,38 +10,48 @@ description: You are improving security, policy and governance across your envir
 As you improve, you are shifting competency to the development team for them to self-service. Full commitment from leadership.
 随着您的改进，您正在将能力转移给开发团队，让他们自助。领导层全力支持。
 
-### Organizational Change
+### Organizational Change 组织变革
 
 Cloud is now the default infrastructure for all services. The business is now requesting services from DevSecOps vs. requesting traditional servers.
+云已成为所有服务的默认基础架构。现在业务请求的是从DevSecOps获取服务，而不是请求传统的服务器。
 
-### Teams and Decentralization
+### Teams and Decentralization 团队和分权化
 
 As the platform becomes more established, you can really start the process of decentralization. You can work on the development of a self-service portal incorporating the policies and processes of your organization to enable developer service ownership.
+随着平台的日趋成熟，您可以真正开始分权化的过程。您可以致力于开发一个自助门户，将您组织的策略和流程融入其中，以便开发人员能够拥有服务所有权。
 
-### Security
+### Security 安全性
 
 By this level, security is involved in design and deployment, you will enforce security in your cloud native environment. Your organization is committed to security with full understanding of policies and regulations both inside and outside of the organization.
+到了这个层面，安全性已经涉及到设计和部署，您将在云原生环境中强制执行安全性。您的组织致力于安全，对组织内外的政策和法规有全面的理解。
 
-### Developer Agility
+### Developer Agility 开发者敏捷性
 
 Feedback is extended from application metrics through to platform and non-functional requirements with clear mapping of value streams to technological implementation. Developers are able to quickly test complex scenarios with many unknowns, cloud and application risks are easily and quickly identified and patched.
+反馈从应用程序指标延伸到平台和非功能需求，同时将价值流映射到技术实现上。开发人员能够快速测试具有许多未知因素的复杂情况，云和应用程序风险很容易且快速地被识别和修复。
 
-### Upskilling Developers
+### Upskilling Developers  提升开发者技能
 
 Developers are more sophisticated and Kubernetes is widely adopted by multiple groups in different business areas, with a body of knowledge developing and actively shared including integration and release processes. Developers and cluster owners are actively expanding Kubernetes in line with their specific business and technical needs.
+开发者更加精通，Kubernetes被多个不同业务领域的多个团队广泛采用，正在发展并积极分享一套包括集成和发布流程的知识体系。开发人员和集群所有者正在积极根据其特定的业务和技术需求扩展Kubernetes。
 
-### CNCF Certifications
+
+### CNCF Certifications CNCF 认证
 
 Organizations may wish to consider the CKS around level 4.
+在第四级左右，组织可能希望考虑 CKS 认证。
 
-#### Certified Kubernetes Security Specialist (CKS)
+#### Certified Kubernetes Security Specialist (CKS) 认证的 Kubernetes 安全专家（CKS）
+
 This program provides assurance that a CKS has the skills, knowledge, and competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime. CKA certification is required to sit for this exam.
+该认证项目提供保证，即 CKS 在保护基于容器的应用程序和 Kubernetes 平台的构建、部署和运行期间的广泛最佳实践方面拥有技能、知识和能力。参加此考试需要具备 CKA 认证。
 
-## <i class="fas fa-cogs"></i> Process
+## <i class="fas fa-cogs"></i> Process 流程
 
-### Process Overview
+### Process Overview 流程概述
 
 The governance model in place will support DevSecOps. You have guardrails in place to support agile software development. You will establish an application services library. You will also set policy around container usage for example auto-scaling policies or HPC.
+现有的治理模型将支持 DevSecOps。您已经设置了防护栏，以支持敏捷软件开发。您将建立一个应用程序服务库。您还将制定关于容器使用的策略，例如自动缩放策略或 HPC。
 
 ### CI/CD
 
