@@ -148,4 +148,5 @@ Your team has cloud native confidence and now it’s time to take that knowledge
 - 在这个阶段，业务应该期望看到更多的报告。报告应涵盖合规性、安全性、性能和成本。这些应该与在Level 1中建立的业务目标轻松对齐。
 
 At this point, you may start to migrate your other applications and have a better understanding of what you want to achieve and where you will see value during each level of maturity.
+
 此时，您可以开始迁移其他应用程序，并更好地了解您想要实现的目标以及在每个成熟级别中看到的价值。
