@@ -115,6 +115,7 @@ Microservices have become the preferred pattern for applications. The use of API
 ### Application Release and Operations 应用程序发布与运营
 
 Not only are you using GitOps operators for rapid deployment, but you may also be using them for development and test purposes. You’ll be expecting most of your software to be packaged with Helm with the feedback loop being closed as quickly as possible to reduce configuration drift.
+
 你不仅使用GitOps操作员来实现快速部署，还可能将它们用于开发和测试目的。你将期望大部分的软件都是通过Helm打包的，并尽可能快地关闭反馈循环，以减少配置漂移。
 
 ### Security and Policy 安全与策略
