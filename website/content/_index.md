@@ -4,7 +4,6 @@ title 标题: "Cloud Native Maturity Model  云原生成熟度模型"
 
 
 
-
 ![woman at a conference](/images/woman-at-conference.jpg)
 
 It’s no secret the world has gone cloud native! The authors of this body of work have seen many organizations start their cloud native journey with no real framework on how to adopt these new applications and platforms. The authors want to provide a framework for success.
